@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AirFry Affiliate Pro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AirFry Affiliate Pro</h1>
+    <p>Le guide des meilleures friteuses à air et offres exclusives</p>
+  </header>
+
+  <main>
+    <article>
+      <h2>Test du Ninja Air Fryer Max XL</h2>
+      <p>Découvrez notre analyse complète du Ninja Air Fryer Max XL, ses fonctionnalités, performances et notre verdict.</p>
+      <a href="https://www.amazon.com/dp/B07S6529ZZ?tag=VOTRETAGAFFILIE" target="_blank">Voir sur Amazon</a>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 AirFry Affiliate Pro</p>
+  </footer>
+</body>
+</html>
